@@ -1,0 +1,27 @@
+{
+  "name": "product-mrp-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "elasticsearch": "^16.7.1",
+    "gulp": "^4.0.2",
+    "lodash": "^4.17.20",
+    "moment": "^2.27.0",
+    "pg": "^8.3.2",
+    "redis": "^3.0.2",
+    "restify": "^8.5.1",
+    "sequelize": "^6.3.4"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^2.1.0",
+    "gulp-nodemon": "^2.5.0",
+    "jshint": "^2.12.0"
+  }
+}
